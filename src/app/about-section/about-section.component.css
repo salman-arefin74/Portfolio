@@ -1,0 +1,45 @@
+h1{
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 72px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.arefin{
+    color: #BD5D38;
+}
+
+.mail{
+    color: #BD5D38;
+}
+
+.contact{
+    text-transform: uppercase;
+}
+
+p{
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.name{
+    margin-top: 240px;
+}
+
+.bio{
+    font-size: 24px;
+    margin-right: 100px;
+    text-align: justify;
+    margin-top: 42px;
+}
+
+i{
+    font-size: 46px;
+    margin-right: 32px;
+    margin-top: 42px;
+}
+
+a{
+ color: black;   
+}

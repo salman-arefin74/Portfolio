@@ -12,14 +12,15 @@
 }
 
 .menu a {
+    font-family: 'Teko', sans-serif;
     text-decoration: none;
-    font-size: 22px;
+    font-size: 26px;
     color: #EED6CD;
     display: block;
   }
 
   .menu a:hover{
-    font-size: 24px;
+    font-size: 28px;
     color: white;
   }
 
