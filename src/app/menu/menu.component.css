@@ -24,6 +24,11 @@
     color: white;
   }
 
+  .menu a:active{
+    font-size: 28px;
+    color: white;
+  }
+
   .menulist{
       margin-top: 50px;
   }
