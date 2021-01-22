@@ -3,7 +3,7 @@ h1{
     font-size: 42px;
     font-weight: 700;
     text-transform: uppercase;
-    margin-top: 100px;
+    margin-top: 60px;
     margin-bottom: 50px;
 }
 
@@ -25,6 +25,7 @@ p{
     font-family: 'Montserrat', sans-serif;
     font-weight: 300;
     line-height: 20px;
+    font-size: 12px;
 }
 
 .timeline{
@@ -44,4 +45,8 @@ ul{
 
 ul li{
     padding: 4px;
+}
+
+.cgpa{
+    margin-bottom: 35px;
 }
