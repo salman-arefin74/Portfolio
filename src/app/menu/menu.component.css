@@ -1,6 +1,6 @@
 .menu{
     background: #BD5D38;
-    height: 1800px;
+    height: 2100px;
     /* position: fixed;
     z-index: 1;
     top: 0;
@@ -14,29 +14,30 @@
 .menu a {
     font-family: 'Teko', sans-serif;
     text-decoration: none;
-    font-size: 26px;
+    font-size: 24px;
     color: #EED6CD;
     display: block;
   }
 
   .menu a:hover{
-    font-size: 28px;
+    font-size: 26px;
     color: white;
   }
 
   .menu a:active{
-    font-size: 28px;
+    font-size: 26px;
     color: white;
   }
 
   .menulist{
       margin-top: 50px;
+      list-style: none;
   }
 
   .menu img{
-      width: 165px;
-      height: 143px;
-      border-radius: 50%;
+      width: 145px;
+      height: 200px;
+      border-radius: 40%;
       border-style: solid;
       border-width: 6px;
       border-color: #CA7D60;
@@ -46,6 +47,6 @@
       margin-right: 50px;
   }
 
-  @media screen and (max-height: 760px) {
-    .menu {height: 750px;}
+  @media screen and (max-height: 860px) {
+    .menu {height: 860px;}
   }
